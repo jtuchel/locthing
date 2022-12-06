@@ -19,11 +19,7 @@ setTimeout(() => {
 
 <i18n>
   {
-    "en": {
-      "title": "title | en"
-    },
-    "de": {
-      "title": "Titel | de"
-    }
+    "en": { "title": "title | en" },
+    "de": { "title": "Titel | de" }
   }
 </i18n>
